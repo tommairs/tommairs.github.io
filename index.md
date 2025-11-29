@@ -13,7 +13,7 @@ layout: default
 <a href = "https://www.instagram.com/tom.mairs/" target=_blank >Instagram</a> |
 <a href = "https://bsky.app/profile/kumotom.bsky.social" target=_blank >Bluesky</a>
 
-I've  spent the last 17 years working in the high-volume commercial email industry, delivering solutions to customers. My full history includes decades of work on custom software, automation, field engineering and customer success. You can read my full resume [here](https://drive.google.com/file/d/1QGaYGUQJYsC8okMg0LAftp_IM_B3IWQg/view?usp=share_link).
+I've  spent the last 17 years working in the high-volume commercial email industry, delivering solutions to customers. My full history includes decades of work on custom software, automation, field engineering and customer success. You can read my full resume [here](https://drive.google.com/file/d/17S9LU25pE-IvajHtv6GtQpMv60anDmXy/view?usp=drive_link).
 
  
 ## Blogs
