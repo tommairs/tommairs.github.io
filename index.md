@@ -28,8 +28,11 @@ I've  spent the last 17 years working in the high-volume commercial email indust
 ## Other Cool Things
 
 [Open Roundtable with LaPosta NL](https://www.youtube.com/watch?v=n_7IVwjHPaY)
+
 [Deliverability Summit 2025 (Amsterdam)](https://www.youtube.com/shorts/GEGNmsNM0-Y)
+
 [Finovate Spring 2019 presentation](https://www.youtube.com/watch?v=khW0hUCpGV0)
+
 
 ```
 Copyright Tom Mairs 2025
