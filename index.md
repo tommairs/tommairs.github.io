@@ -27,11 +27,11 @@ I've  spent the last 17 years working in the high-volume commercial email indust
 
 ## Other Cool Things
 
-[Open Roundtable with LaPosta NL](https://www.youtube.com/watch?v=n_7IVwjHPaY)
+<a href="https://www.youtube.com/watch?v=n_7IVwjHPaY" target-_blank>Open Roundtable with LaPosta NL</a>
 
-[Deliverability Summit 2025 (Amsterdam)](https://www.youtube.com/shorts/GEGNmsNM0-Y)
+<a href="https://www.youtube.com/shorts/GEGNmsNM0-Y" target-_blank>Deliverability Summit 2025 (Amsterdam)</a>
 
-[Finovate Spring 2019 presentation](https://www.youtube.com/watch?v=khW0hUCpGV0)
+<a href="https://www.youtube.com/watch?v=khW0hUCpGV0" target-_blank>Finovate Spring 2019 presentation</a>
 
 
 ```
