@@ -20,7 +20,7 @@ Since 2008, I have worked in the high-volume commercial email industry, deliveri
 
 <a href = "https://thebleedingedge.ca/" target=_blank >The Bleeding Edge</a> - Random musings and opinions that percolate in my brain.
 
-<a href = "./aaslandblog.html" target=_blank >Aasland Tech Blog</a> - Tech-oriented posts, code, hardware, 3D printing
+<a href = "https://blog.aasland.com/" target=_blank >Aasland Tech Blog</a> - Tech-oriented posts, code, AI, hardware, 3D printing
 
 <a href = "https://kumomta.com/blog" target=_blank >KumoMTA Blog</a> - High-Volume email discussions, usually about KumoMTA.
 
