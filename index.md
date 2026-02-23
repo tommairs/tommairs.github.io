@@ -4,7 +4,7 @@ layout: default
 
 <img src="https://tommairs.github.io/images/tommairs.jpeg" width="100" height="100"> 
 
-## Tom Mairs 🇨🇦
+## Tom Mairs 🇨🇦 🇳🇿 ᑖᒻ
 
  Team Builder, People Director, Integration Specialist, Fixer of things  
 
