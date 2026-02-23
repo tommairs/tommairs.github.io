@@ -4,7 +4,7 @@ layout: default
 
 <img src="https://tommairs.github.io/images/tommairs.jpeg" width="100" height="100"> 
 
-## Tom Mairs
+## Tom Mairs 🇨🇦
 
  Team Builder, People Director, Integration Specialist, Fixer of things  
 
@@ -13,7 +13,7 @@ layout: default
 <a href = "https://www.instagram.com/tom.mairs/" target=_blank >Instagram</a> |
 <a href = "https://bsky.app/profile/kumotom.bsky.social" target=_blank >Bluesky</a>
 
-I've  spent the last 17 years working in the high-volume commercial email industry, delivering solutions to customers. My full history includes decades of work on custom software, automation, field engineering and customer success. You can read my full resume [here](https://drive.google.com/file/d/17S9LU25pE-IvajHtv6GtQpMv60anDmXy/view?usp=drive_link).
+Since 2008, I have worked in the high-volume commercial email industry, delivering solutions to customers, but my experience deploying commercial email platforms dates back to the mid 1990's. My full history includes decades of work on custom software, automation, field engineering and customer success. You can read my current resume <a href = "https://drive.google.com/file/d/17S9LU25pE-IvajHtv6GtQpMv60anDmXy/view?usp=drive_link" target=blank >here</a>.
 
  
 ## Blogs
