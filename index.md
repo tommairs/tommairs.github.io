@@ -6,7 +6,9 @@ layout: default
 
 ## Tom Mairs 🇨🇦 🇳🇿 ᑖᒻ
 
- Team Builder, People Director, Integration Specialist, Fixer of things  
+Co-Founder @ KumoMTA
+Tech veteran |  #emailgeek | Team Builder | Hacker | Writer | Solutions Engineer | Integration Specialist | Fixer of things | Serial Entrepreneur | Revolutionary
+, Fixer of things  
 
 <a href="https://www.linkedin.com/in/tommairs/" target=_blank >LinkedIn</a> | 
 <a href = "https://github.com/tommairs" target=_blank >GitHub</a> | 
