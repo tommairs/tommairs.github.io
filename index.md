@@ -6,9 +6,11 @@ layout: default
 
 ## Tom Mairs 🇨🇦 🇳🇿 ᑖᒻ
 
-Co-Founder @ KumoMTA
-Tech veteran |  #emailgeek | Team Builder | Hacker | Writer | Solutions Engineer | Integration Specialist | Fixer of things | Serial Entrepreneur | Revolutionary
-, Fixer of things  
+Co-Founder @ [KumoMTA](https://kumomta.com) [ See the project code [here](https://github.com/KumoCorp/kumomta) ] 
+
+| Tech veteran |  #emailgeek | Team Builder | Hacker | Writer | Solutions Engineer | Integration Specialist | 
+
+| Fixer of things | Serial Entrepreneur | Revolutionary |
 
 <a href="https://www.linkedin.com/in/tommairs/" target=_blank >LinkedIn</a> | 
 <a href = "https://github.com/tommairs" target=_blank >GitHub</a> | 
@@ -30,6 +32,8 @@ Since 2008, I have worked in the high-volume commercial email industry, deliveri
 
 ## Other Cool Things
 
+<a href="https://www.youtube.com/watch?v=jCk2Ph3lQLY" target-_blank>5 minute overview of what KumoMTA is</a>
+
 <a href="https://www.youtube.com/watch?v=n_7IVwjHPaY" target-_blank>Open Roundtable with LaPosta NL</a>
 
 <a href="https://www.youtube.com/shorts/GEGNmsNM0-Y" target-_blank>Deliverability Summit 2025 (Amsterdam)</a>
@@ -37,6 +41,5 @@ Since 2008, I have worked in the high-volume commercial email industry, deliveri
 <a href="https://www.youtube.com/watch?v=khW0hUCpGV0" target-_blank>Finovate Spring 2019 presentation</a>
 
 
-```
-Copyright Tom Mairs 2025
-```
+ -- EOF --
+ 
