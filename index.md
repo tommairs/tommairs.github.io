@@ -8,9 +8,8 @@ layout: default
 
 Co-Founder @ [KumoMTA](https://kumomta.com) [ See the project code [here](https://github.com/KumoCorp/kumomta) ] 
 
-Tech veteran |  #emailgeek | Team Builder | Hacker | Writer | Solutions Engineer | Integration Specialist 
-
-Fixer of things | Serial Entrepreneur | Revolutionary
+  Tech veteran |  #emailgeek | Team Builder | Hacker | Writer | Solutions Engineer | Integration Specialist 
+  Fixer of things | Serial Entrepreneur | Revolutionary
 
 <a href="https://www.linkedin.com/in/tommairs/" target=_blank >LinkedIn</a> | 
 <a href = "https://github.com/tommairs" target=_blank >GitHub</a> | 
