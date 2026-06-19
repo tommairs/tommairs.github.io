@@ -40,5 +40,7 @@ Since 2008, I have worked in the high-volume commercial email industry, deliveri
 <a href="https://www.youtube.com/watch?v=khW0hUCpGV0" target-_blank>Finovate Spring 2019 presentation</a>
 
 
- -- EOF --
+
+
+ ©️ 2026
  
